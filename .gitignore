@@ -1,0 +1,75 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Environment variable files
+.env
+*.env
+
+# Logs
+*.log
+
+# Unit test / coverage reports
+.coverage
+.tox/
+nosetests.xml
+coverage.xml
+*.cover
+*.pytest_cache/
+
+# Python packaging
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDEs
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Docker
+*.tar
+*.img
+*.container
+*.pid
+*.sock
+
+# Compiled C extensions
+*.so
+
+# MySQL/Mongo dump files
+*.sql
+*.sqlite
+*.dump
+*.bak
+
+# PDF/HTML output (if you generate docs)
+*.pdf
+*.html
+output/
+docs/_build/
+
+# PyInstaller
+*.spec
+
+# Node.js (if applicable in frontend/backend mix)
+node_modules/
+
+# Static files (optional for temporary builds)
+staticfiles/
